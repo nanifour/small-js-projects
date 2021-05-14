@@ -1,7 +1,7 @@
 function makeClass(){
     class Thermostat {
         constructor(temp){
-            //convert faraheit to celsius
+            //convert farhrenheit to celsius
             this._temp = 5/9 * (temp - 32);
         }
         //getter
