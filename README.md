@@ -1,3 +1,3 @@
-# Small Javascript programs 
+# Javascript Practice
 
-Small javascript projects that i've worked on to get familiar with and/or practice the language.
+Javascript projects that i've worked on to get familiar with and/or practice the language.
